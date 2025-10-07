@@ -36,6 +36,7 @@
 
 | Project | Description | Links |
 |----------|--------------|-------|
+|    **Elegance Carry** |Ecommerce project using js,node,and mongodb,ejs | [🔗 View](https://github.com/Ashika-Sivan/Elegance-Carry) |
 | 🍽️ **Zomato Clone** | Restaurant web UI clone built with HTML & CSS | [🔗 View](https://github.com/Ashika-Sivan/zomato-clone) |
 | 🎒 **Wildcraft Clone** | E-commerce layout inspired by Wildcraft | [🔗 View](https://github.com/Ashika-Sivan/wildcraft.in-clone) |
 | ☕ **Starbucks Clone** | Responsive website built using CSS | [🔗 View](https://github.com/Ashika-Sivan/Starbucks) |
