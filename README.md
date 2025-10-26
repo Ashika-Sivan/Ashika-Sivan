@@ -4,6 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ashika+Sivan;MERN+Stack+Developer;Passionate+Learner+%26+DSA+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
+<p align="center">
+  <a href="https://github.com/Ashika-Sivan?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ashika-Sivan?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ashika-Sivan&color=blue" alt="Profile Views"/>
+  <a href="https://github.com/Ashika-Sivan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Ashika-Sivan?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+  </a>
+</p>
+
 
 ---
 
@@ -81,10 +91,8 @@
 
 
 ---
-
-![Ashika’s activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashika-Sivan&theme=react-dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ashika-Sivan&color=blueviolet)
+<!--  ![Ashika’s activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashika-Sivan&theme=react-dark) -->
 
 
-⭐ *"Building things that make a difference — one commit at a time."*  
+⭐ *Building things that make a difference - one commit at a time.*  
+
