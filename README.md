@@ -35,16 +35,18 @@
 
 
 ## 💫 Featured Projects  
+<div align="center">
 
 | Project | Description | Links |
 |----------|--------------|-------|
-|    **Elegance Carry** |Ecommerce project using js,node,and mongodb,ejs | [🔗 View](https://github.com/Ashika-Sivan/Elegance-Carry) |
+| 🛍️ **Elegance Carry** | E-commerce project using JS, Node, MongoDB, EJS | [🔗 View](https://github.com/Ashika-Sivan/Elegance-Carry) |
 | 🍽️ **Zomato Clone** | Restaurant web UI clone built with HTML & CSS | [🔗 View](https://github.com/Ashika-Sivan/zomato-clone) |
 | 🎒 **Wildcraft Clone** | E-commerce layout inspired by Wildcraft | [🔗 View](https://github.com/Ashika-Sivan/wildcraft.in-clone) |
 | ☕ **Starbucks Clone** | Responsive website built using CSS | [🔗 View](https://github.com/Ashika-Sivan/Starbucks) |
 | 🧠 **DSA Repo** | JavaScript Data Structures & Algorithms | [🔗 View](https://github.com/Ashika-Sivan/DSA) |
 | 💼 **Portfolio** | My personal portfolio website | [🔗 View](https://github.com/Ashika-Sivan/Portfolio) |
 
+</div>
 ---
 
 ## 📊 GitHub Stats  
