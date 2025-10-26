@@ -73,11 +73,11 @@
 
 ## 🤝 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashika-s-603399358/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=react&logoColor=white)](#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=react&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-38BDF8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashikasivan07/)
+[![Instagram](https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashikasivan07/)
 
 
 ---
