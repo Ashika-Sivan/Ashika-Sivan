@@ -74,7 +74,7 @@
 <p align="center">
   <img src="https://github.com/Ashika-Sivan/Ashika-Sivan/blob/main/50days.gif" width="120" />
   <img src="https://github.com/Ashika-Sivan/Ashika-Sivan/blob/main/100days.gif" width="120" />
-  <img src="https://github.com/Ashika-Sivan/Ashika-Sivan/blob/main/200days.gif" width="120" />
+  <img src="https://github.com/Ashika-Sivan/Ashika-Sivan/blob/main/200.gif" width="120" />
 </p>
 
 
